@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ankamim.github.io/deepfake_detector_test_images/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_6.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_7.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_8.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_9.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_10.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_11.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/me_12.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/df_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/df_2.png</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/df_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://ankamim.github.io/deepfake_detector_test_images/df_4.jpg</image:loc></image:image>
+  </url>
+</urlset>
